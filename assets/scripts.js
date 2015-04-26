@@ -12,3 +12,7 @@ canvas.height = window.innerHeight;
 //add the canvas to the html body
 document.body.appendChild(canvas);
 
+app.url = 'apius.faceplusplus.com ';
+app.key = 'b76b9735bd2795ac44068c6b4d01d96e';
+app.secret = 'CxYS3FuIjXau6bUckY-KKxaKNGTXOPGw';
+
